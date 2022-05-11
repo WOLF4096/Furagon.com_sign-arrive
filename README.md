@@ -1,2 +1,2 @@
-# Furagon.com_sign-arrive
-Furagon.com_幻龙之域自动签到
+# Furagon.com_幻龙之域自动签到
+编辑文件内的 Cookie，将文件放置在网站目录下，创建一个定时访问URL即可使用，已稳定运行俩周
